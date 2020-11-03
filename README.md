@@ -1,8 +1,7 @@
 # Bookstore
 
 ## Objective
-
-Your assignment is to implement a bookstore REST API using Node and Express
+Implement a bookstore REST API using Node and Express
 
 ## Brief
 
