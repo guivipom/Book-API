@@ -1,0 +1,32 @@
+{
+  "name": "nest-bookstore-sygknp",
+  "version": "1.0.0",
+  "description": "Your assignment is to implement a bookstore REST API using Node and Nest.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://tf-talentfinder-sygknp@git.codesubmit.io/tf-talentfinder-gmbh/nest-bookstore-sygknp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.7",
+    "multer": "^1.4.2",
+    "sharp": "^0.26.1",
+    "validator": "^13.1.17"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "nodemon": "^2.0.4"
+  }
+}
